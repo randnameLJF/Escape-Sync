@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 72
+  controlID: 51
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -304,7 +304,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 137
+  controlID: 141
   draggingID: 0
 --- !u!114 &13
 MonoBehaviour:
@@ -380,8 +380,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 225
-    y: 24
+    x: 1006.4
+    y: 79.200005
     width: 235.59998
     height: 451.6
   m_SerializedDataModeController:
@@ -405,8 +405,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/_Project/Materials
+    m_Folders: []
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -417,8 +416,7 @@ MonoBehaviour:
   m_StartGridSize: 16
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\SANJEEV CHAUHAN\Documents\Centennial_College\SEM-2\COMP-305_Game
-    Programming I\Escape-Sync\Escape Sync
+  m_LastProjectPath: C:\CentennialCollege\COMP305\Escape-Sync\Escape Sync
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -454,7 +452,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000aae00000cae00000eae000010ae0000
+    m_ExpandedIDs: ffffffff000000000aae00000cae00000eae000010ae0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -534,7 +532,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 425.6
+    y: 480.80002
     width: 781.4
     height: 289.19998
   m_SerializedDataModeController:
@@ -606,7 +604,7 @@ MonoBehaviour:
       height: 864
     m_MinimalGUI: 1
   m_defaultScale: 0.31041664
-  m_LastWindowPixelSize: {x: 781.4, y: 289.19998}
+  m_LastWindowPixelSize: {x: 976.75, y: 361.49997}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -634,8 +632,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1
-    y: 24
+    x: 782.4
+    y: 79.200005
     width: 222
     height: 451.6
   m_SerializedDataModeController:
@@ -701,7 +699,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 24
+    y: 79.200005
     width: 781.4
     height: 375.6
   m_SerializedDataModeController:
@@ -1288,7 +1286,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -1.4962482, y: -0.53988636, z: 0.034267936}
     speed: 2
-    m_Value: {x: -4.0761814, y: -0.35505727, z: 0.01658556}
+    m_Value: {x: -1.4962482, y: -0.53988636, z: 0.034267936}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1340,7 +1338,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 6.5732327
     speed: 2
-    m_Value: 8.341426
+    m_Value: 6.5732327
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1428,8 +1426,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1
-    y: 501.6
+    x: 782.4
+    y: 556.8
     width: 459.59998
     height: 213.19998
   m_SerializedDataModeController:
@@ -1575,8 +1573,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1245
-    y: 24
+    x: 1244
+    y: 79.200005
     width: 291
     height: 690.8
   m_SerializedDataModeController:
